@@ -63,8 +63,8 @@ form input.equal{
   /* Media Query for Mobile Phones */
 @media (max-width: 480px) {
     .calculator form input {
-        width: 30px;
-        height: 30px;
+        width: 40px;
+        height: 40px;
         font-size: 16px;
     }
     
@@ -73,6 +73,6 @@ form input.equal{
     }
     
     form input.equal {
-        width: 90px;
+        width: 100px;
     }
 }
