@@ -35,6 +35,13 @@
 
 .calculator form input:hover {background-color: #3e8e41}
 
+.calculator form #display {
+    background-color: initial;
+    box-shadow: none;
+    transform: none;
+}
+
+
 .calculator form input:active {
   background-color: #3e8e41;
   box-shadow: 0 5px #666;
